@@ -2,7 +2,7 @@
 
 Topological sort of a directed graph is a linear ordering of its vertices such that for every directed edge (u,v) from vertex u to vertex v, u comes before v in the ordering.
 
-When topological sort is implemented using Kahn's Algorithm (BFS with a queue), the time complexity and space complexity are as follows:
+When topological sort is implemented using **Kahn's Algorithm (BFS with a queue)**, the time complexity and space complexity are as follows:
 
 ### Time Complexity : O(V+E)
 ##### Explanation:
